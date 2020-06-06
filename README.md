@@ -18,3 +18,31 @@ From a visual standpoint, the map appears to be made of vector layers with the p
 This project is made of a variety of features from the basemap, thematic layers, and interactive features. The basemap is a black base color with grey lines and titles of certain geographic regions such as continents, countries, cities, and neighborhoods upon being zoomed in. The basemap is also responsive. The thematic layer would be the raster layer containing all of the points which then contain interactive feature of being able to click them to present further information on the specific incident that occurred at that point. Further interactive features include being able to zoom in, being able to search for  a location and have the map animate and zoom to the location specified, and see the occurrences / points of police violence render over time with a timeline at the bottom of the map. Further inspection of the map can be found below.
 
 ![alt text](img/map.png)
+
+Also, while it is important for web maps to contain elements such as a scalar bar, north, arrow, or legend, this one does not. The map contains sufficient features, however, that communicate the data in a clear concise manner, and elements such as those listed above would not add on to the user’s experience nor would it be central to the project’s goals. It would make sense then, that the simplicity of the web map  was intentional to support a smooth and intuitive user experience.
+
+Overall, this project has a variety of strengths and weaknesses. Some strengths include easy and intuitive interactions with the map, interactive features to display data in a clear concise manner, and additional features that while are not related to the map itself, reflect certain statistics from the data in understandable ways. It should be noted that this is an organization focused on ending racism and police violence, so these statistics reflect do support the arguments that their cause makes such as police violence depends regionally and is disproportionately affecting black communities. Some weaknesses include the additional features outside of the map are not obvious and must be further found by scrolling under the initial map. While the webpage contains more statistics, not all of them are readily available to view and navigate to, ultimately taking away from the experience of interacting with the website to learn more about police violence and racism in the global and nationwide community. Below is a table summarizing these strenghts and weaknesses.
+
+| Strengths     | Weaknesses    | 
+| ------------- |:-------------:|
+| easy / intuitive interactions      | Features outside of map are not obvious and must be found by scrolling |
+| data displayed clearly and concisely      |       |
+| external features paired with map tell narratives that would otherwise be uncaught by the map alone.|     |
+
+
+While the map communicates how frequently and often police violence occurs in the United States, some additional statistics from the web page contribute to the map’s purpose as well. These statistics include that there were only 27 days in the year 2019 where police did not kill anyone. Additional statistics include the following cities all have police departments that kill black men at higher rates than the US murder rate.
+
+1. Reno
+2. Oklahoma City
+3. Santa Ana
+4. Anaheim
+5. St. Louis City
+6. Scottsdale
+7. Hialeah
+8. Madison
+
+Were the map able to show these statistics additional to the simple click and present feature, it would make the map a stronger GIS project. All of the information in the map and outside of it on the webpage are to support an organization that supports a single initiative.
+
+This project was made to support an organization focused on getting rid of police violence and racism within the United States, but supports other movements globally. In most recent times with protests against police violence and racial justice such as the Black Lives Matter movement as a result of long-term systematic oppression of black people, it makes GIS projects like these that much more important to support the movement and help induce change to a system that clearly exploits racist power dynamics. By having this project built by a non-government funded organization, it further creates accountability for a government and law enforcement in general. Having this information be public can help educate those who are not aware of police violence and the various racial disparities that show upon further analysis. Additionally, by having the data be crowdsourced, the organization does not have to rely on official statements that could take years to be made public.
+
+In conclusion, this project was made by Samual Sinyangwe, who is affiliated with We the Protesters, a national organization focused on ending racism and police violence in the United States. The project targets the general public who wish to know and keep the police department accountable for people they have killed. Additionally, with recent protests against police violence and racist power structures, this map is also being used to support these protests. The map from a User-Experience standpoint provides a simple, but seamless experience of exploring the data, and seeing the details within each case. However, the pairing of data visualizations with the map elevates the users learning experience as they further explore the information product. By providing a means of  transparency and accountability for the police departments in the US, in particular, this GIS project shows real world impacts and supports real world causes. I believe that projects like these are a part of what make GIS so valuable in supporting global growth. As a graduating senior from UW, I am glad that I was able to find an intersection of social justice and GIS that I could explore, be inspired by, and learn from.
